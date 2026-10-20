@@ -2,6 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23378369.svg)](https://doi.org/10.5281/zenodo.23378369)
 [![AGMI L4](https://img.shields.io/badge/AGMI-L4-success)](https://agentmemoryintegrity.org/stores/recallspection-exact-anchor.html)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![CI](https://github.com/sciencedelicmetatech/flightspection/actions/workflows/ci.yml/badge.svg)](https://github.com/sciencedelicmetatech/flightspection/actions/workflows/ci.yml)
 
 **Tamper-Evident Memory and Order-Invariant Reasoning for Trustworthy Agency**
 
